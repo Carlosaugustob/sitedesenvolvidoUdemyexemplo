@@ -1,0 +1,11 @@
+.body {
+    margin: 0;
+}
+
+#container {
+    width: 100vw;  /*view width*/ 
+    height: 80vh; /*view height*/
+    background: url('imagens/capa.png');
+    background-size: 55cm;
+    background-repeat: no-repeat;
+}
